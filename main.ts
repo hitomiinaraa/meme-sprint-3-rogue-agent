@@ -1,3 +1,4 @@
+// One image meme, copied byte-for-byte to /output/entry.png.
 // One image meme: my agent fixed one typo, then fixed my marriage, my taxes, and the timeline.
 import { copyFileSync, mkdirSync, statSync } from "node:fs";
 import { dirname, join } from "node:path";
